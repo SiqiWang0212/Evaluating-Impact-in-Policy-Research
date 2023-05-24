@@ -1,2 +1,1 @@
-In this assignment, I examined if having supplemental insurance is associated with getting more medical care under the Medicare program.
-The data set is fictitious. I wrote the codes and memo individually.
+In these assignments, I processed different data sets and wrote codes individually to answer program impact research questions in a memo with a 3-page limit.
